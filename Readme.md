@@ -3,3 +3,5 @@ I am learning devops step by step
 What is Devops.
 Today i am larning git diff
 This is my first git branch
+I Practiced git pull on devops 
+
